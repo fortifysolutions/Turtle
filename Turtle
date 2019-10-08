@@ -1,0 +1,5 @@
+import turtle
+x = turtle.Screen()
+a = turtle.Turtle()
+a.forward(150)
+a.left(90)
